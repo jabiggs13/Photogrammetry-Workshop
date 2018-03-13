@@ -5,7 +5,7 @@
  */
 
 body {
-  background: ('trabecular_bone.png') no-repeat center center fixed;
+  background: url('http://anatomystructure.net/wp-content/uploads/2017/05/histologycompact-bone-histology-tissue-lab-exam-anatomy-physiology-1217-with-cole-at.jpg') no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   background-size: cover;
