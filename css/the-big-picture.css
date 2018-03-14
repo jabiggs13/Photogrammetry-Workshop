@@ -10,7 +10,8 @@ body {
   -moz-background-size: cover;
   background-size: cover;
   -o-background-size: cover;
-  background-color: #fff5ce;
+  <!--background-color: #fff5ce;-->
+  background-color: #78a4bc;
  }
 
 p {
