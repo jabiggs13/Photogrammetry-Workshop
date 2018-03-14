@@ -16,3 +16,22 @@ body {
 p {
   font-weight: bold;
 }
+/* unvisited link */
+a:link {
+    color: #a04f3d;
+}
+
+/* visited link */
+a:visited {
+    color: #a04f3d;
+}
+
+/* mouse over link */
+a:hover {
+    color: #a04f3d;
+}
+
+/* selected link */
+a:active {
+    color: #a04f3d;
+}
